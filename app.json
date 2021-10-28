@@ -1,7 +1,7 @@
 {
-    "name": "RikudoPyrogramString",
+    "name": "Alexstringgenbot",
     "description": "A bot for Generating String Session of Telegram Account mostly for Userbots.",
-    "repository": "https://github.com/AvikaTrivedi/RikudoPyroStr",
+    "repository": "https://github.com/utkarsh212646/pyrogramstringgenbot",
     "logo": "https://telegra.ph/file/f1cf1598c79fd805c60dd.jpg",
     "keywords": [
         "python",
@@ -27,7 +27,7 @@
             "value": "",
             "required": true
         },
-        "API_KEY": {
+        "HEREKOU_API_KEY": {
             "description": "Your Heroku Account API Key from https://dashboard.heroku.com/account ",
             "value": "",
             "required": true

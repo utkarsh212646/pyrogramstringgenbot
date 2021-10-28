@@ -149,15 +149,15 @@ It needs `API_ID`, `API_HASH`, Phone Number and One Time Verification Code. \
 Which will be sent to your Phone Number.
 You have to put **OTP** in `1 2 3 4 5` this format. __(Space between each numbers!)__
 **NOTE:** If bot not Sending OTP to your Phone Number than send /restart Command and again send /start to Start your Process. 
-Must Join Channel for Bot Updates !!
+Must Join Channel for Bot Updates @alex_userbot !!
 """
     reply_markup = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('Developer', url='https://t.me/Avika_5555')
+                InlineKeyboardButton('Developer', url='https://t.me/allenspark10')
             ],
             [
-                InlineKeyboardButton('Contributor', url='https://t.me/mrdark_genuine'),
+                InlineKeyboardButton('owner', url='https://t.me/adarshop_xd'),
             ]
         ]
     )

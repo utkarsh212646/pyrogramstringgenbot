@@ -1,6 +1,6 @@
 # ALEX STRING GEN BOT
 
-[ALEX STRING](https://telegra.ph/file/c44e11e6ee626793e64f2.jpg)
+
 ________
 
 Generate Pyrogram String Session Using this bot.

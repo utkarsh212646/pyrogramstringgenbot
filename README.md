@@ -28,4 +28,4 @@ Generate Pyrogram String Session Using this bot.
 - [UTKARSH](https://t.me/allenspark10)
 - [ ALPHA BOTS ](t.me/alpha_bot_updates)
 
-#Love u guys😉💗
+# TEAM ALPHA😉💗

@@ -12,9 +12,9 @@ from pyrogram.errors import (
     PhoneCodeInvalid, PhoneCodeExpired
 )
 
-API_TEXT = """Hi, {}. 😉
+API_TEXT = """Hi, {}. ❤️
 ✨This is Pyrogram's String Session Generator Bot. I will generate String Session of your Telegram Account.✨
-👉 By your beloved @allenspark10 and @alex_userbot 💗🔥
+👉 By your beloved @adarsh2626 and @Thealphabotz Don't Forget To Join Us @TheAlphaBotz 💗🔥
 Now send your `API_ID` to Start Generating Session."""
 HASH_TEXT = "Now send your `API_HASH`.\n\nPress /cancel to Cancel Task."
 PHONE_NUMBER_TEXT = (
@@ -122,7 +122,7 @@ async def genStr(_, msg: Message):
         return
     try:
         session_string = await client.export_session_string()
-        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@pyrogram_string_genrobot](tg://openmessage?user_id=1472531255) \nA Bot By @Avika_5555 \nThanks for using our bot 👉✨")
+        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@pyrogram_string_genrobot](tg://openmessage?user_id=1472531255) \nA Bot By @Thealphabotz \nThanks for using our bot 👉✨")
         await client.disconnect()
         text = "String Session is Successfully Generated.\nClick on Below Button."
         reply_markup = InlineKeyboardMarkup(
@@ -149,7 +149,7 @@ It needs `API_ID`, `API_HASH`, Phone Number and One Time Verification Code. \
 Which will be sent to your Phone Number.
 You have to put **OTP** in `1 2 3 4 5` this format. __(Space between each numbers!)__
 **NOTE:** If bot not Sending OTP to your Phone Number than send /restart Command and again send /start to Start your Process. 
-Must Join Channel for Bot Updates @alex_userbot !!
+Must Join Channel for Bot Updates @Thealphabotz !!
 """
     reply_markup = InlineKeyboardMarkup(
         [
@@ -157,7 +157,7 @@ Must Join Channel for Bot Updates @alex_userbot !!
                 InlineKeyboardButton('Developer', url='https://t.me/allenspark10')
             ],
             [
-                InlineKeyboardButton('owner', url='https://t.me/adarshop_xd'),
+                InlineKeyboardButton('owner', url='https://t.me/adarsh2626'),
             ]
         ]
     )

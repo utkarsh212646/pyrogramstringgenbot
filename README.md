@@ -1,4 +1,4 @@
-# ALEX STRING GEN BOT
+# Alpha STRING GEN BOT
 
 
 ________
@@ -26,6 +26,6 @@ Generate Pyrogram String Session Using this bot.
 
 #### Developers
 - [UTKARSH](https://t.me/allenspark10)
-- [ ALPHA BOTS ](t.me/alpha_bot_updates)
+- [ ALPHA BOTS ](https://t.me/Thealphabotz)
 
 # TEAM ALPHA😉💗
